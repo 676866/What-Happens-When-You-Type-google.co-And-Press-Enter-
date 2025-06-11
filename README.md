@@ -60,4 +60,4 @@ Web server is a software program that is responsible for delivering web content 
 
 ## 7. User Interaction.
 
-Now the page is interactive, and you can use the search box to do what you want.
+Now at this point if all goes well the web page you requested should be displayed nice and clean on your computer screen.it should be interactive and you can use the search box to do what you want.
